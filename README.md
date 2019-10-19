@@ -1,5 +1,5 @@
 # dockers
-A kwonloadged base repo to store many docker files
+A knowledge base repo to store many docker files
 
 # dependencies
 ## tools (you must provide the installation)
